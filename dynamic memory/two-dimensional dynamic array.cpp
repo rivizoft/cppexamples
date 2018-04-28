@@ -42,6 +42,14 @@ int main()
 
 	cout << "The average value is: ";
 	cout << average_value(school, strokes, columns);
+	
+	/* clear the arrays */
+	
+	for (int i = 0; i < strokes; i++)
+	{
+		delete[] school[i];
+	}
+	delete[] school;
 
 	return 0;
 }
