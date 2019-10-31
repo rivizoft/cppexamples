@@ -87,11 +87,11 @@ int main(int argc, char* argv[])
 {
 	HashTable* ht = new HashTable();
 
-	// Ñëó÷àé ñ îäíèêîâûì êëş÷¸ì
+	// Neo?ae n iaieeiaui ee???i
 	ht->add("Beer", "$2");
 	ht->add("Beer",  "$3");
 
-	//Ñëó÷àé ñ êîëëèçèÿìè
+	//Neo?ae n eieeeceyie
 	ht->add("Bread", "$2");
 	ht->add("Berad", "$4");
 	ht->add("Berda", "$6");
