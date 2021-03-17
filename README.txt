@@ -1,2 +1,1 @@
-C++ structures
-Test commit
+C++ structures, examples, best tips and etc.
